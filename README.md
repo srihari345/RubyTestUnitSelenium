@@ -2,9 +2,9 @@
 Ruby Test Unit cases (positive and negative scenario test cases) Selenium web driver
 
 #Exercise Information:
-This exercise is meant to give us a basic idea of your coding aptitude and style. It should also give you a chance to try out Ruby, and see if it's for you. Once you have Ruby set up, the exercise should take about 30 - 90 minutes to complete. Given the following web page, basic web form, write a Ruby script that demonstrates one positive, and one negative test case. Please use the following criteria:
--Code should be written in Ruby (any version >= 1.93)
--Use Selenium WebDriver (any browser)
+Given the following web page, basic web form, write a Ruby script that demonstrates one positive, and one negative test case. Please use the following criteria:
+-Code should be written in Ruby 
+-Use Selenium WebDriver 
 -Use Test Unit to create the test cases
 -Briefly describe the two test cases in words
 -Create a new public git repository, and push your code to a branch named 'GUI'
