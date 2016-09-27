@@ -10,7 +10,7 @@ This exercise is meant to give us a basic idea of your coding aptitude and style
 -Create a new public git repository, and push your code to a branch named 'GUI'
 --------------------------------------------------------------------------------------------------------------------------------
 
-*Test Case:users are able to naviagate "https://docs.google.com/forms/d/e/1FAIpQLSeT6MPuoZm8Ks3TUw9j3lTKeUlwvcVseFeear6OF4ey24Q40g/viewform" site and submit the fields. Here are test steps.
+*Test Case:users are able to naviagate "https://docs.google.com/forms/d/e/1FAIpQLSeT6MPuoZm8Ks3TUw9j3lTKeUlwvcVseFeear6OF4ey24Q40g/viewform" site , enter the required fields and then submit the fields. Here are test steps.
 
 #Positive test case scenario: Enter text\ select the checkbox required fields in teh web page (Enter name text box and select development check box)
 
