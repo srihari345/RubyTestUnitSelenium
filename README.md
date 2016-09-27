@@ -24,6 +24,6 @@ This exercise is meant to give us a basic idea of your coding aptitude and style
 
     *Test Steps
     1.Navigate to https://docs.google.com/forms/d/e/1FAIpQLSeT6MPuoZm8Ks3TUw9j3lTKeUlwvcVseFeear6OF4ey24Q40g/viewform and verify that submit button working in the webpage.(both positive and negative case scenarios)
-    2.Enter name "Srihari Vannemreddi" in the Nmae text filed. (:id,'entry_1041466219')
-    3.Select the Checkbox in the EnjoyDevelopment field.(:id,'group_310473641_1')
+    2.Enter name "" in the Nmae text filed. (:id,'entry_1041466219')
+    3.Dont select the Checkbox in the EnjoyDevelopment field.(:id,'group_310473641_1')
     4.Click on the Submit button (:id,'ss-submit')
