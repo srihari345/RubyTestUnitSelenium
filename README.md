@@ -12,7 +12,7 @@ Given the following web page, basic web form, write a Ruby script that demonstra
 
 *Test Case:users are able to naviagate "https://docs.google.com/forms/d/e/1FAIpQLSeT6MPuoZm8Ks3TUw9j3lTKeUlwvcVseFeear6OF4ey24Q40g/viewform" site , enter the required fields and then submit the fields. Here are test steps.
 
-#Positive test case scenario: Enter text\ select the checkbox required fields in teh web page (Enter name text box and select development check box)
+#Positive test case scenario: Enter text\ select the checkbox required fields in the web page (Enter name text box and select development check box)
 
     *Test Steps
     1.Navigate to https://docs.google.com/forms/d/e/1FAIpQLSeT6MPuoZm8Ks3TUw9j3lTKeUlwvcVseFeear6OF4ey24Q40g/viewform and verify that submit button working in the webpage.(both positive and negative case scenarios)
