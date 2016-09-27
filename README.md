@@ -20,7 +20,7 @@ This exercise is meant to give us a basic idea of your coding aptitude and style
     3.Select the Checkbox in the EnjoyDevelopment field.(:id,'group_310473641_1')
     4.Click on the Submit button (:id,'ss-submit')
 
-#Negative test case scenario: Don't Enter text\ select the required fields
+#Negative test case scenario: Don't Enter text\ select the required fields checkbox required fields in teh web page
 
     *Test Steps
     1.Navigate to https://docs.google.com/forms/d/e/1FAIpQLSeT6MPuoZm8Ks3TUw9j3lTKeUlwvcVseFeear6OF4ey24Q40g/viewform and verify that submit button working in the webpage.(both positive and negative case scenarios)
